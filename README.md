@@ -1,15 +1,15 @@
 # 100DaysOfCode
 Code Minimum for One(1) hour a day for the next 100 Days consistently - Front End Development Journey
 
-This is part of Alexander Kallaway's 100DaysOfCode challenge. More details about the challenge can be found here: 100daysofcode.com.
+This is part of Alexander Kallaway's 100DaysOfCode challenge. More details about the challenge can be found here: <a href="100DaysOfCode.com">100daysofcode.com</a>.
 
-Commitment: I will code for the next 100Days
-<strong>Start Date: 04 January, 2019.</strong>
-<strong>End Date: 07 April, 2019.</strong>
+Commitment: I will code for the next 100Days <br>
+<strong>Start Date: 05 January, 2019.</strong><br>
+<strong>End Date: 14 April, 2019.</strong>
 
 # PLAN
 
-  <strong># Responsive Web Design</strong>
+  # Responsive Web Design
     - Basic HTML and HTML5
     - Basic CSS
     - Applied Visual Design
@@ -68,3 +68,9 @@ Commitment: I will code for the next 100Days
     - Rosetta
     - Project Euler
   
+  1. Responsive Web Design
+   DAY 1: 05 January, 2019
+   Project : Introduction to Basic HTML and HTML5
+   <ul>
+       <li>Say Hello to HTML Elements</li>
+   </ul>
