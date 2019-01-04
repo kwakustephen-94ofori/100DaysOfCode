@@ -68,9 +68,9 @@ Commitment: I will code for the next 100Days <br>
     - Rosetta
     - Project Euler
   
-  1. Responsive Web Design
-   DAY 1: 05 January, 2019
-   Project : Introduction to Basic HTML and HTML5
-   <ul>
-       <li>Say Hello to HTML Elements</li>
-   </ul>
+  # Responsive Web Design
+     DAY 1: 05 January, 2019
+     Project : Introduction to Basic HTML and HTML5
+    
+       Say Hello to HTML Elements
+    
