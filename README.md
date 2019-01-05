@@ -72,7 +72,8 @@ Commitment: I will code for the next 100Days <br>
      <h2>DAY 1: 04 January, 2019</h2>
      <h3>Project : Introduction to Basic HTML and HTML5</h3>
          <a href="https://www.freecodecamp.org/possible-kwaku">Link to Completed Assignments</a>
-    
+     <!-- DAY 2  -->
      <h2>DAY 2: 05 January, 2019</h2>
      <h3>Project : Introduction to Basic HTML and HTML5</h3>
-         <a href="https://www.freecodecamp.org/possible-kwaku">Link to Completed Assignments</a>
+     <a href="https://www.freecodecamp.org/possible-kwaku">Link to Completed Assignments</a>
+        
